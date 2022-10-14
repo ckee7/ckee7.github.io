@@ -6,13 +6,13 @@ html {
 }
 
 body {
-    Padding: 6em;
+    Padding: 2em;
     background-color: #8698A3;
     background-image: url("/Users/ckeego/ckee7.github.io/IMG_5575.jpg");
     background-repeat: no-repeat;
     background-size: contain;     
     background-position: top;
-    font-size: medium;
+    font-size: small;
     color: #E6F8FF;
 }
 
@@ -42,7 +42,8 @@ a {
 @media (min-width: 700px) {
 
     body {
-        font-size: smaller;
+        padding: 6em;
+        font-size: medium;
     }
 
     header {
@@ -73,7 +74,8 @@ a {
 @media (min-width: 1000px) {
     
     body {
-        font-size: smaller;
+        padding: 10em;
+        font-size: medium;
     }
 
     header {
