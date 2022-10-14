@@ -30,6 +30,11 @@ a {
     color: #E6F8FF;
 }
 
+.container_md {
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
 .work_head{
     text-decoration: underline;
 }
