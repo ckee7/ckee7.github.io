@@ -48,7 +48,6 @@ a {
     list-style-type: none;
 }
 
-
 @media (min-width: 700px) {
 
     body {
@@ -59,6 +58,11 @@ a {
         text-align: center;
         color: #E6F8FF;
         font-family: sans-serif;
+    }
+
+    .container_md {
+        padding-left: 2em;
+        padding-right: 2em;
     }
 
     .container_work {
@@ -90,8 +94,8 @@ a {
     }
 
     .container_md {
-        padding-left: 2em;
-        padding-right: 2em;
+        padding-left: 4em;
+        padding-right: 4em;
     }
 
     .container_work {
