@@ -19,11 +19,13 @@ header {
     text-align: center;
     color: #E6F8FF;
     font-family: sans-serif;
+    margin-top: 1.5em;
     margin-bottom: 1em;
 }
 
 nav {
     margin-top: 1em;
+    margin-bottom: 1em;
 }
 
 a {
@@ -31,6 +33,7 @@ a {
 }
 
 .container_md {
+    flex: auto;
     padding-left: 1em;
     padding-right: 1em;
 }
