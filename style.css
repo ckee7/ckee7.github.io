@@ -8,7 +8,7 @@ html {
 body {
     Padding: 3em;
     background-color: #8698A3;
-    background-image: url("/Users/ckeego/code-guild/class_swordfish/code/chris/HTML_CSS_Flask/Lab_6_Personal_P/IMG_5575.jpg");
+    background-image: url("IMG_5575.jpg");
     background-repeat: no-repeat;
     background-size: contain;     
     background-position: top;
