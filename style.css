@@ -34,9 +34,14 @@ a {
 }
 
 .work_exp {
+    padding: 2em;
     flex: space-around;
     text-align: left;
     list-style-type: none;
+}
+
+.container_skills {
+    padding: 2em;
 }
 
 @media (min-width: 700px) {
