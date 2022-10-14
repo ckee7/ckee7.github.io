@@ -19,12 +19,11 @@ header {
     text-align: center;
     color: #E6F8FF;
     font-family: sans-serif;
-    padding: 1em;
     margin-bottom: 1em;
 }
 
 nav {
-    margin-top: 2em;
+    margin-top: 1em;
 }
 
 a {
@@ -94,6 +93,7 @@ a {
         padding-left: 2em;
         padding-right: 2em;
     }
+
     .container_work {
         text-align: center;
     }
